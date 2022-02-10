@@ -1,5 +1,5 @@
 # Map
-## Discription of the Project
+## Description of the Project
 ### Using this project find the Bus route.
 ### Use the API for import the map inside the wep page.
 ### Inset the pointer to indicate the movement.
@@ -8,3 +8,5 @@
 ## Future Update
 ### Find the train route in the future.
 ### Improve the acurecy of the navigation
+## Click the link to view the project
+### https://masaniprakash.github.io/Map_week9/
